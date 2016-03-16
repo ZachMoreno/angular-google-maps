@@ -1,10 +1,10 @@
 {
   "name": "angular-google-maps",
-  "version": "2.3.2",
+  "version": "3.0.X",
   "description": "AngularJS directives for Google Maps",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular-ui/angular-google-maps.git"
+    "url": "https://github.com/zachmoreno/angular-google-maps.git"
   },
   "scripts": {
     "build": "grunt",
